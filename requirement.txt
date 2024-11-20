@@ -1,0 +1,4 @@
+numpay
+pandas
+scikit-learn
+matplotlib
