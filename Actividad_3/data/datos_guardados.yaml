@@ -1,7 +1,10 @@
 Col_imputar:
 - smoke: most_frequent
 - drink: most_frequent
+- background_father: most_frequent
+- background_mother: most_frequent
 - pesticide: most_frequent
+- gender: most_frequent
 - skin_cancer_history: most_frequent
 - cancer_history: most_frequent
 - has_piped_water: most_frequent
@@ -12,8 +15,6 @@ Col_imputar:
 - grew: most_frequent
 - hurt: most_frequent
 - changed: most_frequent
-- bleed: most_frequent
-- elevation: most_frequent
 
 Col_imputar_2:
 - smoke: most_frequent
