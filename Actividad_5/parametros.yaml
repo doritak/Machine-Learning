@@ -1,0 +1,23 @@
+parametros_1:
+    activation_fn: ReLU
+    capas_ocultas: [784, 512, 256]
+    tam_clase: 10
+    tam_imagen: 784
+
+parametros_2:
+    activation_fn: Tanh
+    capas_ocultas: [784, 512, 256, 128]
+    tam_clase: 10
+    tam_imagen: 784
+
+parametros_3:
+    activation_fn: Softplus
+    capas_ocultas: [784, 392, 128, 64]
+    tam_clase: 10
+    tam_imagen: 784
+
+parametros_4:
+    activation_fn: Sigmoid
+    capas_ocultas: [784, 392, 128, 64, 32]
+    tam_clase: 10
+    tam_imagen: 784

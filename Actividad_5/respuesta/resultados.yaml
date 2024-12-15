@@ -1,0 +1,190 @@
+- resultado:
+    accuracy: 97.63
+    df:
+    - Pérdida: 0.2501
+      Época: 1
+    - Pérdida: 0.1589
+      Época: 2
+    - Pérdida: 0.0074
+      Época: 3
+    - Pérdida: 0.0353
+      Época: 4
+    - Pérdida: 0.3113
+      Época: 5
+    - Pérdida: 0.0132
+      Época: 6
+    - Pérdida: 0.0167
+      Época: 7
+    - Pérdida: 0.0656
+      Época: 8
+    - Pérdida: 0.1108
+      Época: 9
+    - Pérdida: 0.053
+      Época: 10
+    hiperparametros:
+      batch_size: 64
+      epochs: 10
+      learning_rate: 0.001
+      optimizer_str: Adam
+    parametros:
+      activation_fn: ReLU
+      capas_ocultas:
+      - 784
+      - 512
+      - 256
+      tam_clase: 10
+      tam_imagen: 784
+  timestamp: 24-12-15_952096
+- resultado:
+    accuracy: 96.03
+    df:
+    - Pérdida: 0.1496
+      Época: 1
+    - Pérdida: 0.2018
+      Época: 2
+    - Pérdida: 0.0247
+      Época: 3
+    - Pérdida: 0.3572
+      Época: 4
+    - Pérdida: 0.0563
+      Época: 5
+    - Pérdida: 0.1239
+      Época: 6
+    - Pérdida: 0.0916
+      Época: 7
+    - Pérdida: 0.095
+      Época: 8
+    - Pérdida: 0.2296
+      Época: 9
+    - Pérdida: 0.1283
+      Época: 10
+    hiperparametros:
+      batch_size: 64
+      epochs: 10
+      learning_rate: 0.001
+      optimizer_str: Adam
+    parametros:
+      activation_fn: Tanh
+      capas_ocultas:
+      - 784
+      - 512
+      - 256
+      - 128
+      tam_clase: 10
+      tam_imagen: 784
+  timestamp: 24-12-15_270105
+- resultado:
+    accuracy: 96.03
+    df:
+    - Pérdida: 0.1496
+      Época: 1
+    - Pérdida: 0.2018
+      Época: 2
+    - Pérdida: 0.0247
+      Época: 3
+    - Pérdida: 0.3572
+      Época: 4
+    - Pérdida: 0.0563
+      Época: 5
+    - Pérdida: 0.1239
+      Época: 6
+    - Pérdida: 0.0916
+      Época: 7
+    - Pérdida: 0.095
+      Época: 8
+    - Pérdida: 0.2296
+      Época: 9
+    - Pérdida: 0.1283
+      Época: 10
+    hiperparametros:
+      batch_size: 64
+      epochs: 10
+      learning_rate: 0.001
+      optimizer_str: Adam
+    parametros:
+      activation_fn: Tanh
+      capas_ocultas:
+      - 784
+      - 512
+      - 256
+      - 128
+      tam_clase: 10
+      tam_imagen: 784
+  timestamp: 24-12-15_081475
+- resultado:
+    accuracy: 97.67
+    df:
+    - Pérdida: 0.3339
+      Época: 1
+    - Pérdida: 0.4395
+      Época: 2
+    - Pérdida: 0.0329
+      Época: 3
+    - Pérdida: 0.0621
+      Época: 4
+    - Pérdida: 0.0847
+      Época: 5
+    - Pérdida: 0.1214
+      Época: 6
+    - Pérdida: 0.0109
+      Época: 7
+    - Pérdida: 0.1599
+      Época: 8
+    - Pérdida: 0.0313
+      Época: 9
+    - Pérdida: 0.0008
+      Época: 10
+    hiperparametros:
+      batch_size: 64
+      epochs: 10
+      learning_rate: 0.001
+      optimizer_str: Adam
+    parametros:
+      activation_fn: Softplus
+      capas_ocultas:
+      - 784
+      - 392
+      - 128
+      - 64
+      tam_clase: 10
+      tam_imagen: 784
+  timestamp: 24-12-15_844704
+- resultado:
+    accuracy: 96.39
+    df:
+    - Pérdida: 1.0583
+      Época: 1
+    - Pérdida: 0.5444
+      Época: 2
+    - Pérdida: 0.4565
+      Época: 3
+    - Pérdida: 0.5105
+      Época: 4
+    - Pérdida: 0.1535
+      Época: 5
+    - Pérdida: 0.2041
+      Época: 6
+    - Pérdida: 0.2398
+      Época: 7
+    - Pérdida: 0.0385
+      Época: 8
+    - Pérdida: 0.0968
+      Época: 9
+    - Pérdida: 0.3472
+      Época: 10
+    hiperparametros:
+      batch_size: 64
+      epochs: 10
+      learning_rate: 0.001
+      optimizer_str: Adam
+    parametros:
+      activation_fn: Sigmoid
+      capas_ocultas:
+      - 784
+      - 392
+      - 128
+      - 64
+      - 32
+      tam_clase: 10
+      tam_imagen: 784
+  timestamp: 24-12-15_639621
