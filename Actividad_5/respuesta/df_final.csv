@@ -1,0 +1,22 @@
+label;accuracy;parametros;hiperparametros;timestamp
+Res:694116;98.32;act_fn:ReLU - c:3;op_fn:RMSprop - batch:128 - lr:0.0001 - e:20;24-12-18_694116
+Res:880637;97.9;act_fn:ReLU - c:3;op_fn:RMSprop - batch:256 - lr:0.001 - e:15;24-12-18_880637
+Res:954027;97.82;act_fn:Tanh - c:4;op_fn:RMSprop - batch:128 - lr:0.0001 - e:20;24-12-18_954027
+Res:844704;97.67;act_fn:Softplus - c:4;op_fn:Adam - batch:64 - lr:0.001 - e:10;24-12-15_844704
+Res:259741;97.63;act_fn:ReLU - c:3;op_fn:Adam - batch:64 - lr:0.001 - e:10;24-12-18_259741
+Res:952096;97.63;act_fn:ReLU - c:3;op_fn:Adam - batch:64 - lr:0.001 - e:10;24-12-15_952096
+Res:010765;97.16;act_fn:Softplus - c:4;op_fn:Adam - batch:64 - lr:0.001 - e:10;24-12-18_010765
+Res:498374;97.03;act_fn:Sigmoid - c:5;op_fn:Adam - batch:64 - lr:0.001 - e:10;24-12-18_498374
+Res:875166;96.74;act_fn:Softplus - c:4;op_fn:RMSprop - batch:128 - lr:0.0001 - e:20;24-12-18_875166
+Res:639621;96.39;act_fn:Sigmoid - c:5;op_fn:Adam - batch:64 - lr:0.001 - e:10;24-12-15_639621
+Res:557502;96.11;act_fn:Sigmoid - c:5;op_fn:RMSprop - batch:256 - lr:0.001 - e:15;24-12-18_557502
+Res:270105;96.03;act_fn:Tanh - c:4;op_fn:Adam - batch:64 - lr:0.001 - e:10;24-12-15_270105
+Res:081475;96.03;act_fn:Tanh - c:4;op_fn:Adam - batch:64 - lr:0.001 - e:10;24-12-15_081475
+Res:827297;95.73;act_fn:Tanh - c:4;op_fn:Adam - batch:64 - lr:0.001 - e:10;24-12-18_827297
+Res:506115;95.72;act_fn:Tanh - c:4;op_fn:RMSprop - batch:256 - lr:0.001 - e:15;24-12-18_506115
+Res:547073;95.52;act_fn:Softplus - c:4;op_fn:RMSprop - batch:256 - lr:0.001 - e:15;24-12-18_547073
+Res:263160;83.54;act_fn:Sigmoid - c:5;op_fn:RMSprop - batch:128 - lr:0.0001 - e:20;24-12-18_263160
+Res:181992;16.57;act_fn:ReLU - c:3;op_fn:RMSprop - batch:32 - lr:0.01 - e:25;24-12-18_181992
+Res:391023;11.35;act_fn:Sigmoid - c:5;op_fn:RMSprop - batch:32 - lr:0.01 - e:25;24-12-18_391023
+Res:777035;10.32;act_fn:Tanh - c:4;op_fn:RMSprop - batch:32 - lr:0.01 - e:25;24-12-18_777035
+Res:801123;10.32;act_fn:Softplus - c:4;op_fn:RMSprop - batch:32 - lr:0.01 - e:25;24-12-18_801123
