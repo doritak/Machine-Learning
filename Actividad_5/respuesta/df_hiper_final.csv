@@ -1,0 +1,17 @@
+label;accuracy;performance_min;parametros;hiperparametros;timestamp
+Res:148737;97.55;06:02,459;act_fn:Softplus - c:4;op_fn:Adam - batch:32 - lr:0.001 - e:15;24-12-20_148737
+Res:863071;97.2;04:57,578;act_fn:Softplus - c:4;op_fn:Adam - batch:16 - lr:0.001 - e:10;24-12-20_863071
+Res:577788;97.11;03:23,581;act_fn:Softplus - c:4;op_fn:Adam - batch:32 - lr:0.001 - e:10;24-12-20_577788
+Res:066813;96.9;07:31,132;act_fn:Softplus - c:4;op_fn:Adam - batch:16 - lr:0.001 - e:15;24-12-20_066813
+Res:885133;95.22;04:53,495;act_fn:Softplus - c:4;op_fn:SGD - batch:16 - lr:0.01 - e:15;24-12-20_885133
+Res:740247;94.22;03:37,540;act_fn:Softplus - c:4;op_fn:SGD - batch:16 - lr:0.01 - e:10;24-12-20_740247
+Res:981933;93.33;04:05,616;act_fn:Softplus - c:4;op_fn:SGD - batch:32 - lr:0.01 - e:15;24-12-20_981933
+Res:427520;91.41;02:40,586;act_fn:Softplus - c:4;op_fn:SGD - batch:32 - lr:0.01 - e:10;24-12-20_427520
+Res:941688;79.1;04:59,786;act_fn:Softplus - c:4;op_fn:SGD - batch:16 - lr:0.001 - e:15;24-12-20_941688
+Res:747777;40.75;03:30,523;act_fn:Softplus - c:4;op_fn:SGD - batch:16 - lr:0.001 - e:10;24-12-20_747777
+Res:953021;16.55;04:09,809;act_fn:Softplus - c:4;op_fn:SGD - batch:32 - lr:0.001 - e:15;24-12-20_953021
+Res:321248;15.96;02:37,760;act_fn:Softplus - c:4;op_fn:SGD - batch:32 - lr:0.001 - e:10;24-12-20_321248
+Res:893299;11.35;03:25,894;act_fn:Softplus - c:4;op_fn:Adam - batch:32 - lr:0.01 - e:10;24-12-20_893299
+Res:977693;11.35;04:50,747;act_fn:Softplus - c:4;op_fn:Adam - batch:16 - lr:0.01 - e:10;24-12-20_977693
+Res:275493;10.28;07:31,337;act_fn:Softplus - c:4;op_fn:Adam - batch:16 - lr:0.01 - e:15;24-12-20_275493
+Res:321879;10.1;05:19,432;act_fn:Softplus - c:4;op_fn:Adam - batch:32 - lr:0.01 - e:15;24-12-20_321879

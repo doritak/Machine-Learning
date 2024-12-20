@@ -1,0 +1,62 @@
+parametros_1:
+  activation_fn: ReLU
+  capas_ocultas: &id001
+  - 784
+  - 512
+  - 256
+parametros_2:
+  activation_fn: ReLU
+  capas_ocultas: &id002
+  - 784
+  - 512
+  - 256
+  - 128
+parametros_3:
+  activation_fn: ReLU
+  capas_ocultas: &id003
+  - 784
+  - 392
+parametros_4:
+  activation_fn: ReLU
+  capas_ocultas: &id004
+  - 784
+  - 392
+  - 128
+  - 64
+  - 32
+parametros_5:
+  activation_fn: Tanh
+  capas_ocultas: *id001
+parametros_6:
+  activation_fn: Tanh
+  capas_ocultas: *id002
+parametros_7:
+  activation_fn: Tanh
+  capas_ocultas: *id003
+parametros_8:
+  activation_fn: Tanh
+  capas_ocultas: *id004
+parametros_9:
+  activation_fn: Softplus
+  capas_ocultas: *id001
+parametros_10:
+  activation_fn: Softplus
+  capas_ocultas: *id002
+parametros_11:
+  activation_fn: Softplus
+  capas_ocultas: *id003
+parametros_12:
+  activation_fn: Softplus
+  capas_ocultas: *id004
+parametros_13:
+  activation_fn: Sigmoid
+  capas_ocultas: *id001
+parametros_14:
+  activation_fn: Sigmoid
+  capas_ocultas: *id002
+parametros_15:
+  activation_fn: Sigmoid
+  capas_ocultas: *id003
+parametros_16:
+  activation_fn: Sigmoid
+  capas_ocultas: *id004
