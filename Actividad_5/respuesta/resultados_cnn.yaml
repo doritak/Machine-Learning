@@ -1,0 +1,130 @@
+- resultado:
+    accuracy: 0.9911
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.31937003158929744
+      filters_l1: 53
+      filters_l2: 50
+      final_layer_size: 163
+    performance: 7.600630166666666
+  timestamp: 24-12-20_269117
+- resultado:
+    accuracy: 0.9915
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.2667417222278044
+      filters_l1: 33
+      filters_l2: 42
+      final_layer_size: 108
+    performance: 6.060864333333333
+  timestamp: 24-12-20_346088
+- resultado:
+    accuracy: 0.9892
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.344399754453365
+      filters_l1: 16
+      filters_l2: 94
+      final_layer_size: 40
+    performance: 5.17701385
+  timestamp: 24-12-20_085973
+- resultado:
+    accuracy: 0.9918
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.32349630192554335
+      filters_l1: 61
+      filters_l2: 32
+      final_layer_size: 199
+    performance: 7.832618983333333
+  timestamp: 24-12-20_241930
+- resultado:
+    accuracy: 0.9896
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.3049549320516779
+      filters_l1: 42
+      filters_l2: 33
+      final_layer_size: 34
+    performance: 6.230947400000001
+  timestamp: 24-12-20_712399
+- resultado:
+    accuracy: 0.9923
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.24655426808606087
+      filters_l1: 30
+      filters_l2: 36
+      final_layer_size: 196
+    performance: 5.256014283333333
+  timestamp: 24-12-20_924692
+- resultado:
+    accuracy: 0.9929
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.3966461771613577
+      filters_l1: 13
+      filters_l2: 91
+      final_layer_size: 95
+    performance: 5.3165931
+  timestamp: 24-12-20_200402
+- resultado:
+    accuracy: 0.9936
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.2900998503939086
+      filters_l1: 34
+      filters_l2: 115
+      final_layer_size: 146
+    performance: 9.513688516666667
+  timestamp: 24-12-20_386111
+- resultado:
+    accuracy: 0.9925
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.27708330050798324
+      filters_l1: 9
+      filters_l2: 122
+      final_layer_size: 126
+    performance: 6.1664377
+  timestamp: 24-12-20_322839
+- resultado:
+    accuracy: 0.9913
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.3366527037650917
+      filters_l1: 9
+      filters_l2: 54
+      final_layer_size: 71
+    performance: 3.8646811166666666
+  timestamp: 24-12-20_504133
