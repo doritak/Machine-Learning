@@ -1,0 +1,130 @@
+- resultado:
+    accuracy: 0.9883
+    hiperparametros:
+      learning_rate: 0.0001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.3
+      filters_l1: 34
+      filters_l2: 128
+      final_layer_size: 200
+    performance: 9.241608666666668
+  timestamp: 24-12-21_429358
+- resultado:
+    accuracy: 0.9897
+    hiperparametros:
+      learning_rate: 0.0001
+      num_epochs: 10
+      optimizer_str: RMSprop
+    parametros:
+      dropout: 0.3
+      filters_l1: 34
+      filters_l2: 128
+      final_layer_size: 200
+    performance: 9.045569916666667
+  timestamp: 24-12-21_493685
+- resultado:
+    accuracy: 0.982
+    hiperparametros:
+      learning_rate: 0.01
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.3
+      filters_l1: 34
+      filters_l2: 128
+      final_layer_size: 200
+    performance: 9.168211883333333
+  timestamp: 24-12-21_147933
+- resultado:
+    accuracy: 0.9816
+    hiperparametros:
+      learning_rate: 0.01
+      num_epochs: 10
+      optimizer_str: SGD
+    parametros:
+      dropout: 0.3
+      filters_l1: 34
+      filters_l2: 128
+      final_layer_size: 200
+    performance: 10.447682916666668
+  timestamp: 24-12-21_971917
+- resultado:
+    accuracy: 0.1135
+    hiperparametros:
+      learning_rate: 0.1
+      num_epochs: 10
+      optimizer_str: RMSprop
+    parametros:
+      dropout: 0.3
+      filters_l1: 34
+      filters_l2: 128
+      final_layer_size: 200
+    performance: 9.969681233333334
+  timestamp: 24-12-21_483203
+- resultado:
+    accuracy: 0.1135
+    hiperparametros:
+      learning_rate: 0.1
+      num_epochs: 10
+      optimizer_str: RMSprop
+    parametros:
+      dropout: 0.3
+      filters_l1: 34
+      filters_l2: 128
+      final_layer_size: 200
+    performance: 10.130097750000001
+  timestamp: 24-12-21_823827
+- resultado:
+    accuracy: 0.9896
+    hiperparametros:
+      learning_rate: 0.0001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.3
+      filters_l1: 34
+      filters_l2: 128
+      final_layer_size: 200
+    performance: 9.404329966666667
+  timestamp: 24-12-21_396976
+- resultado:
+    accuracy: 0.9898
+    hiperparametros:
+      learning_rate: 0.0001
+      num_epochs: 10
+      optimizer_str: RMSprop
+    parametros:
+      dropout: 0.3
+      filters_l1: 34
+      filters_l2: 128
+      final_layer_size: 200
+    performance: 8.965350616666665
+  timestamp: 24-12-21_627945
+- resultado:
+    accuracy: 0.9925
+    hiperparametros:
+      learning_rate: 0.001
+      num_epochs: 10
+      optimizer_str: Adam
+    parametros:
+      dropout: 0.3
+      filters_l1: 34
+      filters_l2: 128
+      final_layer_size: 200
+    performance: 8.816012783333333
+  timestamp: 24-12-21_666109
+- resultado:
+    accuracy: 0.1032
+    hiperparametros:
+      learning_rate: 0.1
+      num_epochs: 10
+      optimizer_str: RMSprop
+    parametros:
+      dropout: 0.3
+      filters_l1: 34
+      filters_l2: 128
+      final_layer_size: 200
+    performance: 8.602944533333334
+  timestamp: 24-12-21_854163
