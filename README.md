@@ -1,3 +1,26 @@
+# Activities for the Course: Applications of Data Science and Artificial Intelligence
+
+All mini-projects and activities for this course will be uploaded here.
+
+Activity 1 (Not Graded) – 29-10-24
+Introduction to Machine Learning: Data Exploration and Processing with Python
+
+Activity 2 (Graded) – 05-11-24 & 12-11-24
+Supervised Learning with Python: Regressions
+
+Mini Project 1 – 19-11-24
+Supervised Learning with Python: Decision Tree, Random Forest
+
+Activity 3 (Not Graded) – 26-11-24
+Supervised Learning with Python: KNN, SVM
+
+Activity 4 (Graded) – 03-12-24 – Control 2
+Unsupervised Learning with Python: K-Means and Dimensionality Reduction
+
+Mini Project 2 – 10-12-24
+Neural Networks I
+
+------------
 # Actividades para Curso Aplicaciones de ciencia de datos e inteligencia artificial
 ### Alumna: Dora Novoa
 Se subirán todas los mini proyectos o actividades para este curso. 
